@@ -1,0 +1,28 @@
+body {
+  height: 2000px;
+}
+
+#phones {
+  margin: 100px 100px;
+}
+
+#name {
+  position: absolute;
+  left: 150px;
+  top: 590px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#error {
+  position: absolute;
+  left: 135px;
+  top: 680px;
+  font-size: 20px;
+  color: red;
+}
+#btn-cell {
+  position: absolute;
+  left: 130px;
+  top: 630px;
+}

@@ -1,0 +1,52 @@
+
+.container {
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: rgb(58, 59, 58); */
+    background-image: url('jac.jpg');
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    
+
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 18px;
+    height: 1000px;
+    padding-top: 30px;
+
+}
+
+#title {
+    color:goldenrod;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 22px;
+}
+
+#newCard-btn{
+    margin-top: 10px;
+    /* margin-bottom: 1px; */
+    width: 115px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+}
+/* #playAgain-btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 115px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+} */
+
+.para-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
