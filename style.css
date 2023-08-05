@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 80rem;
+}
+
+h3 {
+  display: block;
+  text-align: center;
+}
+span {
+  font-size: medium;
+  font-style: italic;
+}
